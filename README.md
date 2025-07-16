@@ -1,1 +1,1 @@
-# NazuX2279
+Official NazuX hub Script
